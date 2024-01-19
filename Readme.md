@@ -1,3 +1,3 @@
-# this is clone of amazon webpage.
+# This is clone of amazon webpage.
 only for study purpose
 
