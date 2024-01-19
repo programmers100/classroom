@@ -1,1 +1,3 @@
-it is a clone of amazon website for study purpose
+# this is clone of amazon webpage.
+only for study purpose
+
